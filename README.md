@@ -6,7 +6,7 @@ Computer Science graduate & mobile/full-stack developer.
 ### 📱 EduTrack – Educational Management Platform
 A cross-platform mobile app for managing courses, attendance, quizzes, tasks, and real-time classroom communication.
 
-![EduTrack Screenshot](EduTrack%20Screenshot.jpeg)
+<img src="EduTrack%20Screenshot.jpeg" width="400" alt="EduTrack Screenshot">
 
 - Multi-factor attendance (OTP + camera + GPS)
 - Real-time Q&A wall & task manager
@@ -19,7 +19,7 @@ A cross-platform mobile app for managing courses, attendance, quizzes, tasks, an
 ### 🤖 AIDE – Autonomous Intelligent Delivery Entity
 Mobile control interface for an NVIDIA Jetson-based autonomous robot.
 
-![AIDE Screenshot](AIDE%20Screenshot.jpeg)
+<img src="AIDE%20Screenshot.jpeg" width="400" alt="AIDE Screenshot">
 
 - Real-time telemetry dashboard (speed, heading, motor RPM, obstacles)
 - Manual & autonomous (AI person-following) control
