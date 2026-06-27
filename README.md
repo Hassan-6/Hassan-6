@@ -14,7 +14,7 @@ A cross-platform mobile app for managing courses, attendance, quizzes, tasks, an
 - Role-based dashboards (Student/Instructor)
 
 **Tech:** Flutter, Dart, Firebase (Auth, Firestore, Cloud Messaging), Provider  
-🔗 [View on GitHub](your-edutrack-repo-link)
+🔗 [View on GitHub](https://github.com/Hassan-6/EduTrack.git)
 
 ### 🤖 AIDE – Autonomous Intelligent Delivery Entity
 Mobile control interface for an NVIDIA Jetson-based autonomous robot.
