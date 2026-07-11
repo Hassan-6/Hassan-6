@@ -28,7 +28,7 @@ Mobile control interface for an NVIDIA Jetson-based autonomous robot.
 - Admin user management
 
 **Tech:** Flutter, Dart, Firebase, NVIDIA Jetson, REST APIs, Singleton architecture  
-🔗 [View on GitHub](your-aide-repo-link)
+🔗 [View on GitHub](https://github.com/Hassan-6/AIDE-.git)
 
 ### 🌐 Amazon Clone (Web)
 Multi-page e-commerce UI clone built with React and JavaScript.  
