@@ -32,10 +32,10 @@ Mobile control interface for an NVIDIA Jetson-based autonomous robot.
 
 ### 🌐 Amazon Clone (Web)
 Multi-page e-commerce UI clone built with React and JavaScript.  
-🔗 [View on GitHub](your-amazon-clone-repo-link)
+🔗 [View on GitHub](https://github.com/Hassan-6/Project-main.git)
 
 ## 📫 Let's Connect
-- [LinkedIn Profile Link]
+- [LinkedIn Profile Link](https://www.linkedin.com/in/ghulam-hassan-177790421/)
 - Email: formanitech@gmail.com
 
 <!--
