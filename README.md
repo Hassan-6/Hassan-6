@@ -2,7 +2,7 @@
 
 # Hi, I'm Ghulam Hassan 👋
 
-### Computer Science Graduate | Flutter & Full-Stack Developer | Published App Creator
+### Software Engineer | Flutter & Full-Stack Developer | Published App Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-hassan-177790421/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan-6)
@@ -16,7 +16,7 @@
 
 I'm a passionate **Computer Science graduate** specializing in **cross-platform mobile development** with Flutter and Dart. I build end-to-end applications — from pixel-perfect UIs to robust backend integrations — and I've **published apps to the App Store** that real users interact with daily.
 
-- 🔭 Currently seeking **Flutter Developer / Mobile App Developer** roles (Internship or Entry-Level)
+- 🔭 Currently seeking **Flutter Developer / Mobile App Developer** roles
 - 🌱 Open to **Frontend, Full-Stack, and Software QA** opportunities
 - 📱 Published mobile apps with real-world features: real-time data, push notifications, geolocation, camera integration
 - 🛠️ Strong believer in **clean code, maintainable architecture, and defensive programming**
