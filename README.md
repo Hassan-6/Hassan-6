@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ghulam Hassan ðŸ‘‹
+# Hi, I'm Ghulam Hassan 👋
 
 ### Computer Science Graduate | Flutter & Full-Stack Developer | Published App Creator
 
@@ -12,26 +12,26 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Computer Science graduate** specializing in **cross-platform mobile development** with Flutter and Dart. I build end-to-end applications â€” from pixel-perfect UIs to robust backend integrations â€” and I've **published apps to the app store** that real users interact with daily.
+I'm a passionate **Computer Science graduate** specializing in **cross-platform mobile development** with Flutter and Dart. I build end-to-end applications — from pixel-perfect UIs to robust backend integrations — and I've **published apps to the App Store** that real users interact with daily.
 
-- ðŸ”­ Currently seeking **Flutter Developer / Mobile App Developer** roles (Internship or Entry-Level)
-- ðŸŒ± Open to **Frontend, Full-Stack, and Software QA** opportunities
-- ðŸ“± Published mobile apps with real-world features: real-time data, push notifications, geolocation, camera integration
-- ðŸ› ï¸ Strong believer in **clean code, maintainable architecture, and defensive programming**
-- ðŸš€ Fast learner who picks up new technologies by building real projects
+- 🔭 Currently seeking **Flutter Developer / Mobile App Developer** roles (Internship or Entry-Level)
+- 🌱 Open to **Frontend, Full-Stack, and Software QA** opportunities
+- 📱 Published mobile apps with real-world features: real-time data, push notifications, geolocation, camera integration
+- 🛠️ Strong believer in **clean code, maintainable architecture, and defensive programming**
+- 🚀 Fast learner who picks up new technologies by building real projects
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -43,7 +43,7 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 ### Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=flat-square&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=flat-square)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,9 +53,9 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
-### ðŸ“± EduTrack â€” Educational Management Platform
+### 📱 EduTrack — Educational Management Platform
 > **A full-featured cross-platform mobile app for students and instructors.**
 
 <table>
@@ -68,16 +68,16 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 <td width="60%">
 
 **Key Features:**
-- ðŸ” **Multi-factor attendance verification** â€” OTP, camera capture, and GPS geolocation
-- ðŸ’¬ **Real-time Q&A discussion wall** powered by Firestore snapshot listeners
-- ðŸ“… **Task management** with calendar sync and Firebase Cloud Messaging push notifications
-- ðŸ“ **Custom rich-text parsing engine** â€” built from scratch when dynamic TextField styling failed
-- ðŸŽ­ **Role-based dashboards** â€” separate Student and Instructor experiences
-- ðŸ—ï¸ **Clean architecture** using Provider state management and singleton services
+- 🔐 **Multi-factor attendance verification** — OTP, camera capture, and GPS geolocation
+- 💬 **Real-time Q&A discussion wall** powered by Firestore snapshot listeners
+- 📅 **Task management** with calendar sync and Firebase Cloud Messaging push notifications
+- 📝 **Custom rich-text parsing engine** — built from scratch when dynamic TextField styling failed
+- 🎭 **Role-based dashboards** — separate Student and Instructor experiences
+- 🏗️ **Clean architecture** using Provider state management and singleton services
 
-**Tech Stack:** `Flutter` Â· `Dart` Â· `Firebase Auth` Â· `Firestore` Â· `Cloud Messaging` Â· `Provider` Â· `Geolocator` Â· `Camera`
+**Tech Stack:** `Flutter` · `Dart` · `Firebase Auth` · `Firestore` · `Cloud Messaging` · `Provider` · `Geolocator` · `Camera`
 
-**ðŸ”— [View on GitHub](https://github.com/Hassan-6/EduTrack.git)**
+**🔗 [View on GitHub](https://github.com/Hassan-6/EduTrack)**
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 
 ---
 
-### ðŸ¤– AIDE â€” Autonomous Intelligent Delivery Entity
+### 🤖 AIDE — Autonomous Intelligent Delivery Entity
 > **Mobile control interface for an NVIDIA Jetson-powered autonomous robot.**
 
 <table>
@@ -98,17 +98,17 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 <td width="60%">
 
 **Key Features:**
-- ðŸ“Š **Real-time telemetry dashboard** â€” speed, heading, motor RPM, obstacle detection, AI mode status
-- ðŸŽ® **Dual control modes** â€” Manual joystick control and autonomous AI person-following
-- ðŸ“¹ **Live robot camera feed** via WebView integration
-- ðŸ’¡ **Hardware controls** â€” LED and motor command interface
-- ðŸ”’ **Role-based access control** â€” Admin vs Operator permissions
-- ðŸ›¡ï¸ **Defensive JSON parsing** â€” handles inconsistent/malformed data from robot hardware without crashing the UI
-- ðŸ—ï¸ **Singleton service architecture** â€” centralized API management for maintainability
+- 📊 **Real-time telemetry dashboard** — speed, heading, motor RPM, obstacle detection, AI mode status
+- 🎮 **Dual control modes** — Manual joystick control and autonomous AI person-following
+- 📹 **Live robot camera feed** via WebView integration
+- 💡 **Hardware controls** — LED and motor command interface
+- 🔒 **Role-based access control** — Admin vs Operator permissions
+- 🛡️ **Defensive JSON parsing** — handles inconsistent/malformed data from robot hardware without crashing the UI
+- 🏗️ **Singleton service architecture** — centralized API management for maintainability
 
-**Tech Stack:** `Flutter` Â· `Dart` Â· `Firebase` Â· `REST APIs` Â· `WebView` Â· `NVIDIA Jetson` Â· `Singleton Pattern`
+**Tech Stack:** `Flutter` · `Dart` · `Firebase` · `REST APIs` · `WebView` · `NVIDIA Jetson` · `Singleton Pattern`
 
-**ðŸ”— [View on GitHub](https://github.com/Hassan-6/AIDE-.git)**
+**🔗 [View on GitHub](https://github.com/Hassan-6/AIDE-)**
 
 </td>
 </tr>
@@ -116,23 +116,23 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 
 ---
 
-### ðŸŒ Amazon Clone â€” E-Commerce Web Application
+### 🌐 Amazon Clone — E-Commerce Web Application
 > **A fully responsive multi-page e-commerce UI clone.**
 
 **Key Features:**
-- ðŸ›ï¸ Product listings with category filtering
-- ðŸ›’ Shopping cart with state management
-- ðŸ” Authentication pages (login/signup)
-- ðŸ“± Responsive design for mobile and desktop
-- ðŸ”„ Multi-page navigation using React Router
+- 🛍️ Product listings with category filtering
+- 🛒 Shopping cart with state management
+- 🔐 Authentication pages (login/signup)
+- 📱 Responsive design for mobile and desktop
+- 🔄 Multi-page navigation using React Router
 
-**Tech Stack:** `React` Â· `JavaScript` Â· `HTML5` Â· `CSS3` Â· `React Router`
+**Tech Stack:** `React` · `JavaScript` · `HTML5` · `CSS3` · `React Router`
 
-**ðŸ”— [View on GitHub](https://github.com/Hassan-6/Project-main.git)**
+**🔗 [View on GitHub](https://github.com/Hassan-6/Project-main)**
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -143,20 +143,20 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 
 ---
 
-## ðŸŽ¯ What I Bring to the Table
+## 🎯 What I Bring to the Table
 
 | Skill Area | What I Do |
 |------------|-----------|
 | **Mobile Development** | Build and publish cross-platform apps with Flutter, handling everything from UI to backend integration |
 | **Real-Time Systems** | Implement live data flows using Firestore snapshot listeners, WebSockets, and push notifications |
-| **Defensive Programming** | Write resilient code that handles edge cases â€” null values, malformed JSON, network failures, permission denials |
+| **Defensive Programming** | Write resilient code that handles edge cases — null values, malformed JSON, network failures, permission denials |
 | **Clean Architecture** | Separate concerns with Provider, singleton services, and reusable components |
 | **Problem Solving** | When existing solutions fail, I build custom ones (see: EduTrack's rich-text parser) |
 | **Fast Learning** | Self-taught Flutter, Firebase, and React by building real projects from scratch |
 
 ---
 
-## ðŸ“« Let's Connect
+## 📨 Let's Connect
 
 I'm actively looking for opportunities in **mobile development, frontend, full-stack, and software QA**. If you're hiring or want to collaborate, let's talk!
 
@@ -171,6 +171,6 @@ I'm actively looking for opportunities in **mobile development, frontend, full-s
 
 <div align="center">
 
-â­ *If you like my work, consider starring my repositories!* â­
+⭐ *If you like my work, consider starring my repositories!* ⭐
 
 </div>
