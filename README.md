@@ -132,17 +132,6 @@ I'm a passionate **Computer Science graduate** specializing in **cross-platform 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hassan-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
-
-</div>
-
----
-
 ## 🎯 What I Bring to the Table
 
 | Skill Area | What I Do |
